@@ -1,6 +1,6 @@
 # Portfolio Template
 
-This repository contains an academic portfolio template that can be used to showcase your work, skills, projects, and more. The template is built with HTML, CSS, and JavaScript.
+This repository contains a portfolio template that can be used to showcase your work, skills, projects, and more. The template is built with HTML, CSS, and JavaScript.
 
 ## Features
 
