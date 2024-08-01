@@ -1,4 +1,5 @@
 # Portfolio Template
+![Portfolio](https://github.com/user-attachments/assets/40e0754d-4a49-4736-8325-20a9bd3cd1ef)
 
 This repository contains a portfolio template that can be used to showcase your work, skills, projects, and more. The template is built with HTML, CSS, and JavaScript.
 
